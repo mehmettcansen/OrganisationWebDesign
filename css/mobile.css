@@ -1,0 +1,93 @@
+#navbar .logo{
+    float:none;
+}
+
+#navbar ul, #navbar ul li{
+    float: none;
+}
+
+#navbar ul li a{
+    padding: 5px;
+    border-bottom: #444 dotted 1px;
+}
+
+
+
+ /* About Page */
+
+#aboutInfo #leftInfo{
+    float: none;
+    width: 100%;
+    color: black;
+}
+
+#aboutInfo #rightImg{
+    display: none;
+}
+
+#aboutInfo #rightImg #ebruSen{
+    display:none
+}
+
+#aboutInfo #leftInfo p{
+    font-size: 10px;
+}
+
+
+/* Contact Page */
+
+.box{
+    float:none;
+    background-color:#333;
+    color: #fff;
+    width: 100%;
+    padding: 30px 0px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 30px;
+    margin-bottom: 5px;
+ }
+
+ #contactTitle{
+    line-height: 1em;
+    font-size: 30px;
+ }
+
+
+ /* Concept Page */
+
+ .leftImg{
+    width: 37%;
+    float: left;
+    height: 300px; 
+    margin-left:20px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+.rightImg{
+    width: 37%;
+    float: right;
+    height: 300px;
+    margin-right: 20px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+.rightVideo{
+    width: 37%;
+    float: right;
+    height: 300px;
+    margin-right: 20px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.leftVideo{
+    width: 37%;
+    float: left;
+    height: 300px;
+    margin-left: 20px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
